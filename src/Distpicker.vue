@@ -308,8 +308,8 @@ export default {
 .distpicker-address-wrapper {
   color: #9caebf;
   select {
-    padding: .5rem .75rem;
-    height: 40px;
+    padding: 0;
+    height: 30px;
     font-size: 1rem;
     line-height: 1.25;
     color: #464a4c;
