@@ -310,6 +310,7 @@ export default {
   select {
     padding: 0;
     height: 30px;
+    width: 100px;
     font-size: 1rem;
     line-height: 1.25;
     color: #464a4c;
@@ -317,7 +318,7 @@ export default {
     background-image: none;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    border: 1px solid rgba(0,0,0,.15);
+    border: none;
     border-radius: .25rem;
     -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
     transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
